@@ -31,3 +31,6 @@ python test.py --trained_model=/zjh/scanpath/FastGaze-oa/FastGaze_sep/TP/train_a
 python plot_scanpath1.py  --trained_model=FastGazeT \
 --dataset_dir=/zjh/data/FastGaze-cocosearch --task bottle --imgfile 000000231822.jpg \
 --sc_mask True --sc_ior True --max_len 7 --lm_hidden_dim 512 --hidden_dim 256 --num_encoder 2 --num_decoder 2 --img_hidden_dim 2048 --cuda=4
+
+
+![FastGazeT](./scanpath_FastGazeT_bottle_000000231822.jpg "Bottle")
