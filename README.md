@@ -27,7 +27,7 @@ fv/fastgaze-T.pkg
 should be placed under:
 
 ```bash
-FastGaze_sep/model_zoo/
+FastGaze_sep/FV/model_zoo/
 ```
 
 ## Usage
